@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently Working on WebApp (angular).
 
-- 🔭 I’m currently Working on Videogame (unreal).
-
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently learning Java & MySQL.
