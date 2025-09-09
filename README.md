@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Marcos Aguirre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="400" width="400" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
+  <img align="right" top="500" height="350" width="350" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 </a>
 
 - 🔭 I’m currently Working on WebApp (angular).
@@ -17,7 +17,6 @@
 - 📫 How to reach me **marcosoffs99@gmail.com**
 
 - 📄 Know about my experiences <a href="" target="blank">Resume</a>
-<br/>
 <br/>
 <br/>
 <br/>
