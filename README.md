@@ -4,6 +4,8 @@
   <img align="right" top="500" height="350" width="350" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 </a>
 
+- 📩 Fullstack Developer expanding my knowledge through practical projects. Passionate about learning new technologies and building solutions from scratch.
+
 - 🔭 I’m currently Working on my portfolio.
 
 - 🤝 I’m available for freelancing.
