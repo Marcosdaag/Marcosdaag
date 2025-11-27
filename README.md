@@ -4,7 +4,7 @@
   <img align="right" top="500" height="350" width="350" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 </a>
 
-- 🔭 I’m currently Working my portfolio.
+- 🔭 I’m currently Working on my portfolio.
 
 - 🤝 I’m available for freelancing.
 
