@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **marcosoffs99@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/Marcosdaag/Marcosdaag.github.io" target="blank">Resume</a>
 <br/>
 <br/>
 <br/>
