@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **marcosoffs99@gmail.com**
 
-- 📄 Know about my experiences <a href="https://marcosdaag.github.io/" target="blank">Curriculum</a>
+- 📄 Know about my experiences <a href="https://marcosdaag.github.io/" target="blank">resume</a>
 <br/>
 <br/>
 <br/>
