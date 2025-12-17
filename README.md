@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **marcosoffs99@gmail.com**
 
-- 📄 Know about my experiences <a href="https://marcosdaag.netlify.app/" target="blank">resume</a>
+- 📄 Know about my experiences <a href="https://portfolio-marcosdaags-projects.vercel.app/" target="blank">resume</a>
 <br/>
 <br/>
 <br/>
