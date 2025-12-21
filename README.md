@@ -86,14 +86,3 @@
 </span>
 
 ----
-
-<div align="center">
-<h2  style="margin: 5px 10px;">Github stats</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Marcosdaag&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Marcosdaag)
-<h4 align="center">Top langs</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosdaag&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-</div>
-
-----
