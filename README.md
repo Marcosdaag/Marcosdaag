@@ -6,11 +6,11 @@
 
 - 📩 Fullstack Developer expanding my knowledge through practical projects. Passionate about learning new technologies and building solutions from scratch.
 
-- 🔭 I’m currently Working on my portfolio.
+- 🔭 I’m currently Working on medical booking app.
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Java & MySQL.
+- 🌱 I’m currently focusing on app architecture.
 
 - 💬 Ask me about anything, i am happy to help.
 
