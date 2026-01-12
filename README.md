@@ -6,7 +6,7 @@
 
 - 📩 Fullstack Developer expanding my knowledge through practical projects. Passionate about learning new technologies and building solutions from scratch.
 
-- 🔭 I’m currently Working on medical booking app.
+- 🔭 I’m currently Working on my portfolio.
 
 - 🤝 I’m available for freelancing.
 
