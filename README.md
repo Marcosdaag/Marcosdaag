@@ -1,43 +1,38 @@
-<h1 align="center">Hi , I'm Marcos Aguirre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="350" width="350" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
-</a>
+<h1>Hi, I'm Marcos Aguirre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-- 📩 Fullstack Developer expanding my knowledge through practical projects. Passionate about learning new technologies and building solutions from scratch.
+<a href="mailto:marcosoffs99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://portfoliomarcosdaag.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/marcosaguirre-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Marcosdaag" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://x.com/marcos99a_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.instagram.com/marcos_a99/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-- 🔭 I’m currently Working on my portfolio.
+<br>
+<br>
 
-- 🤝 I’m available for freelancing.
+**Full Stack Developer**
+<br>
+Specializing in the **JavaScript/TypeScript** ecosystem (**Angular & Node.js**).
+<br>
+Focused on building scalable architectures and efficient end-to-end solutions.
 
-- 🌱 I’m currently focusing on app architecture.
+</div>
 
-- 💬 Ask me about anything, i am happy to help.
+---
 
-- 📫 How to reach me **marcosoffs99@gmail.com**
+### 👨‍💻 About me
 
-- 📄 Know about my experiences <a href="https://portfoliomarcosdaag.vercel.app/" target="blank">resume</a>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+* 🎓 Currently deepening my software development studies at **Universidad Tecnológica Nacional (UTN)**.
+* 💻 Proficient in the **JavaScript/TypeScript** ecosystem, applying it both on the client side (**Angular**) and server side (**Node.js**).
+* ⚙️ **Recent Experience:** End-to-end development of a Stock and Sales Management System, successfully automating processes and reducing the client's operational time by 70%.
+* 🚀 **My methodology:** "Learning by doing". Always striving for clean code, attention to detail, and continuous learning.
+* 📫 How to reach me **marcosoffs99@gmail.com**
+* 📄 Know about my experiences <a href="https://portfoliomarcosdaag.vercel.app/" target="blank">resume</a>
 
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/marcosaguirre9/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Marcosdaag">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/marcos_a99/?igsh=OHU1MG9sM2Rsc3dz#">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/marcos99a_">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-      </div>
-<br/>
-<h2> My Skills Include </h2>
+---
+<h2> My Skills </h2>
 
 <h4> Languages </h4>
 <span> 
@@ -52,11 +47,11 @@
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+	<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
