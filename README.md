@@ -32,7 +32,7 @@ Focused on building scalable architectures and efficient end-to-end solutions.
 * 📄 Know about my experiences <a href="https://portfoliomarcosdaag.vercel.app/" target="blank">resume</a>
 
 ---
-<h2> My Skills </h2>
+### 🛠️ My Skills
 
 <h4> Languages </h4>
 <span> 
