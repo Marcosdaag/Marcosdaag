@@ -9,29 +9,27 @@
 <br>
 <br>
 
-**Full Stack Developer**
+**Desarrollador Full Stack**
 <br>
-Specializing in the **JavaScript/TypeScript** ecosystem (**Angular & Node.js**).
-<br>
-Focused on building scalable architectures and efficient end-to-end solutions.
+Centrado en la construcción de software escalable y la resolución eficiente de problemas mediante arquitecturas limpias y una lógica de negocio sólida..
 
 </div>
 
 ---
 
-### 👨‍💻 About me
+### 👨‍💻 Sobre mí
 
-* 🎓 Currently deepening my software development studies at **Universidad Tecnológica Nacional (UTN)**.
-* 💻 Proficient in the **JavaScript/TypeScript** ecosystem, applying it both on the client side (**Angular**) and server side (**Node.js**).
-* ⚙️ **Recent Experience:** End-to-end development of a Stock and Sales Management System, successfully automating processes and reducing the client's operational time by 70%.
-* 🚀 **My methodology:** "Learning by doing". Always striving for clean code, attention to detail, and continuous learning.
-* 📫 How to reach me **marcosoffs99@gmail.com**
-* 📄 Know about my experiences <a href="https://portfoliomarcosdaag.vercel.app/" target="blank">resume</a>
+* 🎓 Graduado de la **Universidad Tecnológica Nacional (UTN)**.
+* 💻 Desarrollador de Software enfocado en el diseño de sistemas escalables. Especializado en backend (Java, Node.js) y frontend (Angular).
+* ⚙️ **Experiencia reciente:** Lideré un equipo de tres desarrolladores en la reestructuración integral de la arquitectura para el proyecto *Spin the Wheel* (Evveland), y logré una reducción del 70% en el tiempo operativo desarrollando un Sistema de Gestión de Stock freelance.
+* 🚀 **Mi enfoque:** Priorizo la lógica de negocio y las buenas prácticas. Busco desarrollar soluciones tecnológicas eficientes donde el código limpio y la optimización de recursos sean la base para resolver desafíos complejos.
+* 📫 Podés contactarme en **marcosoffs99@gmail.com**.
+* 📄 Conocé más sobre mis proyectos en mi [portfolio](https://portfoliomarcosdaag.vercel.app/).
 
 ---
-### 🛠️ My Skills
+### 🛠️ Skills
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -52,14 +50,14 @@ Focused on building scalable architectures and efficient end-to-end solutions.
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
-<h4> Libraries </h4>
+<h4> Librerias </h4>
 <span>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
 </span>
 
-<h4> Databases </h4>
+<h4> Bases de Datos </h4>
 <span>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -82,7 +80,7 @@ Focused on building scalable architectures and efficient end-to-end solutions.
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologias </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
