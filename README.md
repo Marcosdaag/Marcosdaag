@@ -11,7 +11,7 @@
 
 **Desarrollador Full Stack**
 <br>
-Centrado en la construcción de software escalable y la resolución eficiente de problemas mediante arquitecturas limpias y una lógica de negocio sólida..
+Centrado en la construcción de software escalable y la resolución eficiente de problemas mediante arquitecturas limpias y una lógica de negocio sólida.
 
 </div>
 
@@ -22,7 +22,7 @@ Centrado en la construcción de software escalable y la resolución eficiente de
 * 🎓 Graduado de la **Universidad Tecnológica Nacional (UTN)**.
 * 💻 Desarrollador de Software enfocado en el diseño de sistemas escalables. Especializado en backend (Java, Node.js) y frontend (Angular).
 * ⚙️ **Experiencia reciente:** Lideré un equipo de tres desarrolladores en la reestructuración integral de la arquitectura para el proyecto *Spin the Wheel* (Evveland), y logré una reducción del 70% en el tiempo operativo desarrollando un Sistema de Gestión de Stock freelance.
-* 🚀 **Mi enfoque:** Priorizo la lógica de negocio y las buenas prácticas. Busco desarrollar soluciones tecnológicas eficientes donde el código limpio y la optimización de recursos sean la base para resolver desafíos complejos.
+* 🚀 **Mi enfoque:** Priorizo la lógica de negocio y las buenas prácticas. Busco desarrollar soluciones tecnológicas eficientes donde el código estructurado y la optimización de recursos sean la base para resolver desafíos complejos.
 * 📫 Podés contactarme en **marcosoffs99@gmail.com**.
 * 📄 Conocé más sobre mis proyectos en mi [portfolio](https://portfoliomarcosdaag.vercel.app/).
 
