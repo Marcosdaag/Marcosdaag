@@ -24,4 +24,3 @@ Centrado en la construcción de software escalable y la resolución eficiente de
 * ⚙️ **Experiencia reciente:** Lideré un equipo de tres desarrolladores en la reestructuración integral de la arquitectura para el proyecto *Spin the Wheel* (Evveland), y logré una reducción del 70% en el tiempo operativo desarrollando un Sistema de Gestión de Stock freelance.
 * 🚀 **Mi enfoque:** Priorizo la lógica de negocio y las buenas prácticas. Busco desarrollar soluciones tecnológicas eficientes donde el código estructurado y la optimización de recursos sean la base para resolver desafíos complejos.
 * 📫 Podés contactarme en **marcosoffs99@gmail.com**.
-* 📄 Conocé más sobre mis proyectos en mi [portfolio](https://portfoliomarcosdaag.vercel.app/).
