@@ -54,7 +54,3 @@ CI/CD
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=Marcosdaag&show_icons=true&theme=tokyonight) ![](https://github-readme-streak-stats.herokuapp.com/?user=Marcosdaag&theme=tokyonight)
