@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/marcosaguirre-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://portfoliomarcosdaag.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 
-**Full Stack Developer**
+**Software Developer**
 <br>
 </div>
 
@@ -15,7 +15,7 @@
 ### 👨‍💻 Sobre mí
 
 * 🎓 Graduado de la **Universidad Tecnológica Nacional (UTN)**.
-* 💻 Full Stack Developer especializado en Angular y Spring Boot. Construyo arquitecturas escalables, APIs robustas y soluciones orientadas a resolver problemas reales de negocio.
+* 💻 Software Developer especializado en Angular y Spring Boot. Construyo arquitecturas escalables, APIs robustas y soluciones orientadas a resolver problemas reales de negocio.
 * ⚙️ **Experiencia reciente:** Lideré un equipo de tres desarrolladores en la reestructuración integral de la arquitectura para el proyecto *Spin the Wheel* (Evveland), y logré una reducción del 70% en el tiempo operativo desarrollando un Sistema de Gestión de Stock freelance.
 * 🚀 **Mi enfoque:** Priorizo la lógica de negocio y las buenas prácticas. Busco desarrollar soluciones tecnológicas eficientes donde el código estructurado y la optimización de recursos sean la base para resolver desafíos complejos.
 * 📫 Podés contactarme en **marcosoffs99@gmail.com**.
